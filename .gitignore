@@ -1,0 +1,9 @@
+results*/
+*bin
+pretrained*
+*pt
+*png
+visuals/
+data/
+*log
+__pycache__
